@@ -1,4 +1,4 @@
-# cputemp
+# cputemp.sh
 The script checks your CPU temperature every 15 minutes and gives you a notification if the temperature is higher that 50'C. To make this script run in the background always type the following command in your terminal:
 
 #sudo nohup ./cputemp.sh &
